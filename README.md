@@ -10,7 +10,7 @@ Proyecto React para gestionar tareas, usando Vite y Vitest para tests.
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/gym-task-manager.git
+git clone git@github.com:Alemartinez97/Gym-admin.git
 cd gym-task-manager
 npm install
 # o yarn install
